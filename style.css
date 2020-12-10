@@ -426,14 +426,13 @@
         }
         
         .bgimg3 {
-            background-image: url('table2.jpg');
+            background-image: url('table2.JPG');
             height: 100%;
             /* background-position: center; */
             background-size: cover;
             background-repeat: no-repeat;
             position: relative;
             color: rgb(226, 230, 253);
-            /* font-family: "Courier New", Courier, monospace; */
             font-size: 20px;
         }
         
